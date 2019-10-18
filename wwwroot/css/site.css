@@ -35,3 +35,7 @@ body {
         display: none;
     }
 }
+img{
+    width: 110px;
+    height: 45px;
+}
